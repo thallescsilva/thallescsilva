@@ -17,5 +17,4 @@ Senior Java Developer with 10+ years of experience building scalable backend sys
 
 ### Get in touch
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thallescsilva/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/thallescsilva)
